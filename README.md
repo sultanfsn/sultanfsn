@@ -1,8 +1,8 @@
 ## Hello all, my name is Sultan Fahrezy!
 
 <div style="display: inline_block"><br>
-  <a class="github-stats" href="https://github.com/WictorDalbsoco/WictorDalbosco">
-    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=WictorDalbosco&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
+  <a class="github-stats" href="https://github.com/sultanfsn">
+    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=sultanfsn&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
   </a>
 
   <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
