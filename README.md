@@ -24,9 +24,7 @@
       <img align="left" alt="Eji-react" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="left" alt="Eji-mdb" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
-</br>
 
 ## Contact
