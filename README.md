@@ -6,7 +6,7 @@
   </a>
 
   <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
-    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WictorDalbosco&langs_count=5&theme=tokyonight&layout=compact" />
+    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanfsn&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
  
 </div> 
@@ -17,7 +17,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img  align="left" alt="Eji-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="left" alt="Eji-PyTorch" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">
+      <img align="left" alt="Eji-PyTorch" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="left" alt="Eji-tf" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
